@@ -5,7 +5,7 @@
 - 🔭 Atualmente trabalho como analista de testes na Minsait An Indra company 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-macedo/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vldmacedojc@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vldmacedojc@gmail.com)
 
 ![Vladimir GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladimir-Macedo&show_icons=true&theme=dracula) 
 
